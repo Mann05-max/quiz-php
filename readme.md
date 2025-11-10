@@ -50,7 +50,7 @@ This project is licensed under the QuizMaster is licensed under the Apache Licen
 
 <h2>Future ideas for project</h2>
 
-. gemini quiz maker
+. gemini quiz maker (soon)
 . ai powered 
 . pdf uploads
 
