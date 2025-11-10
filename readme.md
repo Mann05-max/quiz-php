@@ -54,4 +54,4 @@ This project is licensed under the QuizMaster is licensed under the Apache Licen
 . ai powered 
 . pdf uploads
 
-For any queries - please contact me at - contact@shreyash-is.a.dev or contact me on discord - shreyash0467 and daddyishere5538. I hope you have a beautiful day ahead!
+For any queries - please contact me at - contact@shreyash-is.a.dev or contact me on discord - shreyash0467 and daddyishere5538 and mann_2305_31424. I hope you have a beautiful day ahead!
